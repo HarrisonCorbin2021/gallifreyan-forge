@@ -14,6 +14,8 @@ public class ModItems
 
     public static final RegistryObject<Item> TARANIUM = ITEMS.register("taranium",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> TARANIUM_INGOT = ITEMS.register("taranium_ingot",
+            () -> new Item(new Item.Properties()));
 
 
 
