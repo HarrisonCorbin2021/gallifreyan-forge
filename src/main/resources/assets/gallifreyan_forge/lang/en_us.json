@@ -3,5 +3,8 @@
   "item.gallifreyan_forge.taranium_ingot": "Taranium Ingot",
 
   "block.gallifreyan_forge.taranium_block": "Block of Taranium",
-  "block.gallifreyan_forge.raw_taranium_block": "Block of Unprocessed Taranium"
+  "block.gallifreyan_forge.raw_taranium_block": "Block of Unprocessed Taranium",
+
+  "creativetab.gallifreyan_forge.gallifreyan_items": "Tardis Materials",
+  "creativetab.gallifreyan_forge.gallifreyan_blocks": "Tardis Blocks"
 }
