@@ -29,6 +29,7 @@ public class ModCreativeModeTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModBlocks.TARANIUM_BLOCK.get());
                         output.accept(ModBlocks.RAW_TARANIUM_BLOCK.get());
+                        output.accept(ModBlocks.TARANIUM_ORE.get());
                     }).build());
 
     public static void register(IEventBus eventBus) {

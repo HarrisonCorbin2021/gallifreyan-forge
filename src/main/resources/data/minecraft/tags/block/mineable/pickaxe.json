@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+      "gallifreyan_forge:taranium_block",
+      "gallifreyan_forge:raw_taranium_block",
+      "gallifreyan_forge:taranium_ore"
+  ]
+}
